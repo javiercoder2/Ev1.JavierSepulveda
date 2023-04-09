@@ -1,0 +1,4 @@
+com\mycompany\calculadora\JAXRSConfiguration.class
+com\mycompany\calculadora\resources\JavaEE8Resource.class
+root_controller\Controller.class
+root_model\CalcularDatos.class
